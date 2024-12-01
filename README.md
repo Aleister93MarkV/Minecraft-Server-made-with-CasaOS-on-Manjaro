@@ -21,6 +21,6 @@ that i could not screenshot on time, it did indeed work, fine as that.
 
 ## Seriously, You guys Rock!
 
-And if you want to join my minecraft you can join it here:
+And if you want to join my minecraft server you can join it here:
 
 ## storage-downloadable.joinmc.link
