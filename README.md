@@ -8,7 +8,7 @@ laying arround and, not having any use case for it, i've built a Home lab with i
 and made three servers, First is the default file server that's included, Second
 is a Jellyfin server, and the Third you've guest it, The Minecraft server, Built
 using Crafty Controller with a few Plugins, plus with the Playit proxy
-and to say that my experiences we'regreat is a testament to the fact that Manjaro 
+and to say that my experiences we're great is a testament to the fact that Manjaro 
 was listed as a "Unsupported/Untested", allthough it gave me a few errors on install 
 that i could not screenshot on time, it did indeed work, fine as that.
 
